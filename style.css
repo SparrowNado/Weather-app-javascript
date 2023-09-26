@@ -188,7 +188,7 @@ body{
 
 
 
-/* Style for the intro container */
+/* Style for the intro container
 .intro-container {
     text-align: center;
     margin-bottom: 20px;
@@ -201,9 +201,9 @@ body{
 }
 
 /* Add this CSS to center the entire weather content */
-.weather-content {
+/* .weather-content {
     text-align: center;
-}
+} */
 
 
 
